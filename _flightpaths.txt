@@ -1,0 +1,12 @@
+11
+Austin|Billings|147|176
+Austin|Detroit|216|150
+Billings|Detroit|219|184
+Billings|El Paso|138|147
+Chicago|Detroit|180|45
+Chicago|Fresno|310|240
+Chicago|Greensboro|272|82
+Detroit|El Paso|250|208
+Detroit|Fresno|249|268
+El Paso|Greensboro|170|207
+Fresno|Greensboro|300|296

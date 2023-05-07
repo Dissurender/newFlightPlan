@@ -1,0 +1,5 @@
+4
+Austin|Greensboro|T
+Billings|Fresno|C
+Chicago|El Paso|T
+Chicago|Austin|C
